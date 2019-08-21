@@ -3,7 +3,7 @@
 ========================================================================================
 After installing the app you need to install ros environment on you pc, then start your master with
 ROS_MASTER_URI="your ip address(192.168.0.101)", enter the same ip on the first Activity that is shown
-on the app and do the below things
+on the app.
 This application was used in robocup for ball, marker and goal detection. It works as follows:
         -> face your back camera to the object(Color) you want to detect and touch it three 
            times, it actually draws a circle when you do this, i done this just to take the circle
