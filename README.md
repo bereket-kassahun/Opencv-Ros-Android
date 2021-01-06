@@ -6,7 +6,7 @@ ROS_MASTER_URI="your ip address(192.168.0.101)", enter the same ip on the first 
 on the app.
 This application was used in robocup for ball, marker and goal detection. It works as follows:
         * face your back camera to the object(Color) you want to detect and touch it three 
-           times, it actually draws a circle when you do this, i done this just to take the circle
+           times, it actually draws a circle when you do this, i have done this just to take the circle
            as a ball and use it's radius for other computation on the robot.
         * again face your back camera to the second color and touch it three times 
         * do it again for the third color
